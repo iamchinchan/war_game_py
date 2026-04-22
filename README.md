@@ -1,5 +1,3 @@
-Your GitHub README is ready. I have kept the language simple, professional, and focused on the actual logic you built so you can easily explain it to anyone.
-
 ---
 
 # War Card Game (Python Edition)
