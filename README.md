@@ -1,4 +1,4 @@
----
+-----------------
 
 # War Card Game (Python Edition)
 
