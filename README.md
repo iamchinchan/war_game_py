@@ -1,6 +1,6 @@
 -----------------
 
-# War Card Game (Python Edition)
+# War Card Game
 
 A fully automated simulation of the classic "War" card game built with Python. This project focuses on **Object-Oriented Programming (OOP)** and clean logic to handle complex card game rules.
 
